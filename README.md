@@ -32,6 +32,6 @@ Bu proje, sadece HTML kullanılarak hazırlanmış statik bir Meksika restoranı
 
 ## Proje Linki
 
-👉 [Projeyi canlı olarak görüntülemek için buraya tıklayın] (https://github.io/semanurakts/RestoranMenusuSayfasi/restoranmenusu.html)
+👉 [Projeyi canlı olarak görüntülemek için buraya tıklayın] (https://semanurakts.github.io/RestoranMenusuSayfasi/restoranmenusu.html)
 
 
